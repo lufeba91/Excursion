@@ -1,0 +1,21 @@
+*{
+	font-family: Verdana;
+}
+body{
+	background-color: black;
+}
+h1{
+	color:white;
+	font-size: 50px;
+	font-weight: normal;
+	text-align: center;
+}
+.link{
+	text-align: center;
+	font-size: 16px;
+	width: 100%;
+}
+
+.link a {
+	color: aquamarine;
+}
